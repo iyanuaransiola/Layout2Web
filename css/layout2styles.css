@@ -117,7 +117,6 @@ box-sizing: border-box;
     text-align: center;
     font-size: 23px;
    }
-  
 
 .container .section{
     width: 90%;
@@ -141,19 +140,19 @@ box-sizing: border-box;
    .container .section .section3{
     width: 70%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-top: 5px;
    }
    .container .section .section4{
     width: 70%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-top: 5px;
    }
    .container .section .section5{
     width: 55%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-top: 5px;
    }
    .container .content {
@@ -178,28 +177,28 @@ box-sizing: border-box;
    .container .content .content1 .content3{
     width: 90%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 10px;
    }
    .container .content .content1 .content4{
     width: 90%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 10px;
    }
    .container .content .content1 .content5{
     width: 90%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 10px;
    }
    .container .content .content1 .content6{
     width: 75%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 10px;
    }
@@ -213,7 +212,7 @@ box-sizing: border-box;
    .container .content .content1 .content8{
     width: 90%;
     height: 10px;
-    background-color:rgb(150, 143, 143);
+    background-color:rgb(180, 143, 143);
     margin-left: 48px;
    margin-top: 10px;
    }
@@ -221,7 +220,7 @@ box-sizing: border-box;
    .container .content #aside{
     height: 100%;
     width: 49%;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
    }
    .container #line{
     display: flex;
@@ -232,21 +231,21 @@ box-sizing: border-box;
    .container #line #line1{
     width: 80%;
     height:10px;
-    background-color:rgb(150, 143, 143);
+    background-color:rgb(180, 143, 143);
     margin-top: 10px;
     margin-left: 48px;
    }
    .container #line #line2{
     width: 80%;
     height:10px;
-    background-color:rgb(150, 143, 143);
+    background-color:rgb(180, 143, 143);
     margin-top: 10px;
     margin-left: 48px;
    }
    .container #line #line3{
     width: 65%;
     height:10px;
-    background-color:rgb(150, 143, 143);
+    background-color:rgb(180, 143, 143);
     margin-top: 10px;
     margin-left: 48px;
    }
@@ -259,19 +258,19 @@ box-sizing: border-box;
    .container .layer .layer1{
     width: 30%;
     height: 100%;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
    }
    .container .layer .layer2{
     width: 30%;
     height: 100%;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
    }
    .container .layer .layer3{
     width: 30%;
     height: 100%;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
    }
    .container .classic{
@@ -290,14 +289,14 @@ box-sizing: border-box;
    .container .classic .classic2{
     width: 95%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 20px;
    }
    .container .classic .classic3{
     width: 95%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 5px;
    }
@@ -305,19 +304,19 @@ box-sizing: border-box;
    .container .classic .classic4{
     width: 95%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 5px;
    }
    .container .classic .classic5{
     width: 65%;
     height: 10px;
-    background-color: rgb(150, 143, 143);
+    background-color: rgb(180, 143, 143);
     margin-left: 48px;
     margin-top: 5px;
    }
    
-   /* footer*/
+  
    .container .lastfooter{
     height: 150px;
     width: 95%;
